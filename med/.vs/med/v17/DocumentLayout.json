@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zahra\\source\\repos\\med\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\signinform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\signinform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\patientsigninform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\patientsigninform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|c:\\users\\zahra\\source\\repos\\med\\med\\medicalsystemdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\medicalsystemdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\medicalcenteruserpanelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\medicalcenteruserpanelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\medicalcentersigninform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\medicalcentersigninform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\med.csproj|solutionrelative:med\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\drugstoreuserpanelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\drugstoreuserpanelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\drugstoresigninform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\drugstoresigninform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\doctoruserpanelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\doctoruserpanelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\doctorsigninform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\doctorsigninform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|c:\\users\\zahra\\source\\repos\\med\\med\\doctorsigninform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\doctorsigninform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|c:\\users\\zahra\\source\\repos\\med\\med\\medicalcenteruserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\medicalcenteruserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\medicalcenteruserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\medicalcenteruserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\medicalcenteruserpanelform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\medicalcenteruserpanelform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\medicalcentersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\medicalcentersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\medicalcentersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\medicalcentersigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\doctoruserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\doctoruserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\doctoruserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\doctoruserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\drugstoreuserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\drugstoreuserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\drugstoresigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\drugstoresigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\drugstoresigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\drugstoresigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\doctorsigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\doctorsigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\doctorsigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\doctorsigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\patientsigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\patientsigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\patientsigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\patientsigninform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\med.csproj|solutionrelative:med\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\drugstoreuserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\Med.csproj|solutionrelative:med\\drugstoreuserpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\med.csproj|C:\\Users\\zahra\\source\\repos\\med\\med\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1096E819-08DA-45C8-A52A-BD1918D0974B}|med\\med.csproj|solutionrelative:med\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:335774910:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1230618979:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:945568621:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedicalSystemDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalSystemDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "med\\MedicalSystemDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalSystemDataSet.Designer.cs",
+              "RelativeToolTip": "med\\MedicalSystemDataSet.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:14:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DrugstoreUserPanelForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreUserPanelForm.Designer.cs",
+              "RelativeDocumentMoniker": "med\\DrugstoreUserPanelForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreUserPanelForm.Designer.cs",
+              "RelativeToolTip": "med\\DrugstoreUserPanelForm.Designer.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:17:38.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "med\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\Form1.Designer.cs",
+              "RelativeToolTip": "med\\Form1.Designer.cs",
+              "ViewState": "AQIAACsBAAAAAAAAAAAAAPwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:01:31.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicalCenterSignInForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterSignInForm.Designer.cs",
+              "RelativeDocumentMoniker": "med\\MedicalCenterSignInForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterSignInForm.Designer.cs",
+              "RelativeToolTip": "med\\MedicalCenterSignInForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:50:33.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalCenterUserPanelForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterUserPanelForm.Designer.cs",
+              "RelativeDocumentMoniker": "med\\MedicalCenterUserPanelForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterUserPanelForm.Designer.cs",
+              "RelativeToolTip": "med\\MedicalCenterUserPanelForm.Designer.cs",
+              "ViewState": "AQIAAA8BAAAAAAAAAAAAANUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:33:19.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DrugstoreSignInForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreSignInForm.Designer.cs",
+              "RelativeDocumentMoniker": "med\\DrugstoreSignInForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreSignInForm.Designer.cs",
+              "RelativeToolTip": "med\\DrugstoreSignInForm.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:39:08.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorUserPanelForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorUserPanelForm.Designer.cs",
+              "RelativeDocumentMoniker": "med\\DoctorUserPanelForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorUserPanelForm.Designer.cs",
+              "RelativeToolTip": "med\\DoctorUserPanelForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:05:06.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorSignInForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorSignInForm.Designer.cs",
+              "RelativeDocumentMoniker": "med\\DoctorSignInForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorSignInForm.Designer.cs",
+              "RelativeToolTip": "med\\DoctorSignInForm.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:49:40.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorSignInForm.resx",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorSignInForm.resx",
+              "RelativeDocumentMoniker": "med\\DoctorSignInForm.resx",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorSignInForm.resx",
+              "RelativeToolTip": "med\\DoctorSignInForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-22T09:54:22.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MedicalCenterUserPanelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterUserPanelForm.cs",
+              "RelativeDocumentMoniker": "med\\MedicalCenterUserPanelForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterUserPanelForm.cs [Design]",
+              "RelativeToolTip": "med\\MedicalCenterUserPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:44:02.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MedicalCenterUserPanelForm.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterUserPanelForm.cs",
+              "RelativeDocumentMoniker": "med\\MedicalCenterUserPanelForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterUserPanelForm.cs",
+              "RelativeToolTip": "med\\MedicalCenterUserPanelForm.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAawBMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:32:38.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicalCenterUserPanelForm.resx",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterUserPanelForm.resx",
+              "RelativeDocumentMoniker": "med\\MedicalCenterUserPanelForm.resx",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterUserPanelForm.resx",
+              "RelativeToolTip": "med\\MedicalCenterUserPanelForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-07T21:44:01.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedicalCenterSignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterSignInForm.cs",
+              "RelativeDocumentMoniker": "med\\MedicalCenterSignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterSignInForm.cs [Design]",
+              "RelativeToolTip": "med\\MedicalCenterSignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:30:25.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedicalCenterSignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterSignInForm.cs",
+              "RelativeDocumentMoniker": "med\\MedicalCenterSignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\MedicalCenterSignInForm.cs",
+              "RelativeToolTip": "med\\MedicalCenterSignInForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:40:34.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoctorUserPanelForm.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorUserPanelForm.cs",
+              "RelativeDocumentMoniker": "med\\DoctorUserPanelForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorUserPanelForm.cs",
+              "RelativeToolTip": "med\\DoctorUserPanelForm.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAA4wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:58:33.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorUserPanelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorUserPanelForm.cs",
+              "RelativeDocumentMoniker": "med\\DoctorUserPanelForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorUserPanelForm.cs [Design]",
+              "RelativeToolTip": "med\\DoctorUserPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:58:02.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DrugstoreUserPanelForm.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreUserPanelForm.cs",
+              "RelativeDocumentMoniker": "med\\DrugstoreUserPanelForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreUserPanelForm.cs",
+              "RelativeToolTip": "med\\DrugstoreUserPanelForm.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAlwKAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:15:44.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DoctorSignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorSignInForm.cs",
+              "RelativeDocumentMoniker": "med\\DoctorSignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorSignInForm.cs",
+              "RelativeToolTip": "med\\DoctorSignInForm.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAUwDYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:49:43.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DrugstoreSignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreSignInForm.cs",
+              "RelativeDocumentMoniker": "med\\DrugstoreSignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreSignInForm.cs",
+              "RelativeToolTip": "med\\DrugstoreSignInForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA0wDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:14:06.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DrugstoreSignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreSignInForm.cs",
+              "RelativeDocumentMoniker": "med\\DrugstoreSignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreSignInForm.cs [Design]",
+              "RelativeToolTip": "med\\DrugstoreSignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:30:05.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DoctorSignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorSignInForm.cs",
+              "RelativeDocumentMoniker": "med\\DoctorSignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DoctorSignInForm.cs [Design]",
+              "RelativeToolTip": "med\\DoctorSignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:29:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\Form1.cs",
+              "RelativeDocumentMoniker": "med\\Form1.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\Form1.cs",
+              "RelativeToolTip": "med\\Form1.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAYwGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:02:43.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\SignInForm.cs",
+              "RelativeDocumentMoniker": "med\\SignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\SignInForm.cs",
+              "RelativeToolTip": "med\\SignInForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:34:11.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientSignInForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\PatientSignInForm.Designer.cs",
+              "RelativeDocumentMoniker": "med\\PatientSignInForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\PatientSignInForm.Designer.cs",
+              "RelativeToolTip": "med\\PatientSignInForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:46:04.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\Form1.cs",
+              "RelativeDocumentMoniker": "med\\Form1.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\Form1.cs [Design]",
+              "RelativeToolTip": "med\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:59:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientSignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\PatientSignInForm.cs",
+              "RelativeDocumentMoniker": "med\\PatientSignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\PatientSignInForm.cs",
+              "RelativeToolTip": "med\\PatientSignInForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:22:58.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PatientSignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\PatientSignInForm.cs",
+              "RelativeDocumentMoniker": "med\\PatientSignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\PatientSignInForm.cs [Design]",
+              "RelativeToolTip": "med\\PatientSignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:27:52.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\Program.cs",
+              "RelativeDocumentMoniker": "med\\Program.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\Program.cs",
+              "RelativeToolTip": "med\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:08:38.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\SignInForm.cs",
+              "RelativeDocumentMoniker": "med\\SignInForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\SignInForm.cs [Design]",
+              "RelativeToolTip": "med\\SignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:29:07.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignInForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\SignInForm.Designer.cs",
+              "RelativeDocumentMoniker": "med\\SignInForm.Designer.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\SignInForm.Designer.cs",
+              "RelativeToolTip": "med\\SignInForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:38:32.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DrugstoreUserPanelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreUserPanelForm.cs",
+              "RelativeDocumentMoniker": "med\\DrugstoreUserPanelForm.cs",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\DrugstoreUserPanelForm.cs [Design]",
+              "RelativeToolTip": "med\\DrugstoreUserPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:15:13.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\zahra\\source\\repos\\med\\med\\App.config",
+              "RelativeDocumentMoniker": "med\\App.config",
+              "ToolTip": "C:\\Users\\zahra\\source\\repos\\med\\med\\App.config",
+              "RelativeToolTip": "med\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-04T14:01:21.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
